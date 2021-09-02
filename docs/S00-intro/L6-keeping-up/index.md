@@ -79,3 +79,9 @@ _Have suggestions you'd like to see on the list? [Edit this page here!](https://
 - [Comprehensive Solidity Tutorials](https://github.com/willitscale/learning-solidity){target=_blank}
 - [CryptoZombies](https://cryptozombies.io/){target=_blank}
 - [Visual Overview of Ethereum in 116 Slides](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf){target=_blank}
+
+## LinkedIn
+- [Justin Wales](https://www.linkedin.com/in/justinwales/){target=_blank} Lawyer specialist in blockchain with a lot of experience in SEC investigations on blockchain based companies.
+- [Paul Grewal](https://www.linkedin.com/in/paul-grewal-288978b4/){target=_blank} Chief Legal Officer at Coinbase.
+- [Duncan Shawn](https://www.linkedin.com/in/duncanshawrecruiter/){target=_blank} Managing Director at Blockchain 121 - Executive Search and Talent Supply for the Blockchain Industry.
+- [Plexus Resource](https://www.linkedin.com/company/plexus-resource-solutions/){target=_blank} Blockchain recruitment Company.
